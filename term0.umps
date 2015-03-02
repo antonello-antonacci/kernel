@@ -1,0 +1,5 @@
+p1 v(testsem)
+pp2 starts
+p2 is OK
+error: p2 didn't terminate
+kernel panic()
